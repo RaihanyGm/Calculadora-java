@@ -1,6 +1,6 @@
 # Calculadora em Java
 
-Este é um projeto simples de uma calculadora desenvolvida em Java como parte de uma atividade da faculdade. A calculadora realiza operações básicas como **adição, subtração, multiplicação e divisão**, e possui a tecla **C** para limpar os valores.
+Este é um projeto simples de uma calculadora desenvolvida em Java. A calculadora realiza operações básicas como **adição, subtração, multiplicação e divisão**, e possui a tecla **C** para limpar os valores.
 
 ## Tecnologias
 
